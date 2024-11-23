@@ -19,7 +19,7 @@ https://shiwaku.github.io/road-traffic-census-map-2015/
 `https://xs489works.xsrv.jp/pmtiles-data/traffic-census/traffic_census_2015_convert.parquet`,32MB
 
 ## 道路交通センサスマップ2021
-https://github.com/shi-works/road-traffic-census-map-2021
+https://github.com/shiwaku/road-traffic-census-map-2021
 
 ## GIS Dataのライセンスについて
 本データセットは[CC-BY-4.0](https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/traffic-accident/LICENSE)で提供されます。使用の際には本リポジトリへのリンクを提示してください。
